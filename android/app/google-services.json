@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914344667051",
+    "project_id": "unir-ffd30",
+    "storage_bucket": "unir-ffd30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914344667051:android:51a294d63643633dd2d4ee",
+        "android_client_info": {
+          "package_name": "com.example.unir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914344667051-97h4viojg2jn6i8ql4hecmq1ucogrga3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGm1JOpcALAqT12G7WLUksf3u50uZIc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914344667051-97h4viojg2jn6i8ql4hecmq1ucogrga3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
